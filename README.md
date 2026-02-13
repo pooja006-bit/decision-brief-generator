@@ -104,7 +104,7 @@ Future improvements could include:
 The current version is portfolio - ready and demonstrates senior-level analytical judgment. 
 
 ## System Architecture
-This diagram shos how raw budget data flows through the analysis pipeline and becomes an executive decision brief. 
+This diagram shows how raw budget data flows through the analysis pipeline and becomes an executive decision brief. 
 
 The system is intentionally designed to separate data validation, analytical judgment, and narrative generation so leaders can trust both the numbers and the story. 
 
