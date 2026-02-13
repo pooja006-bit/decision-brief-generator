@@ -2,10 +2,10 @@
 Turning budget data into executive-ready decisions
 
 ## Overview
-This project takes raw budget vs. actual financial data and converts it into clar, one-page decision briefs designed for senior finance leaders. 
+This project takes raw budget vs. actual financial data and converts it into clear, one-page decision briefs designed for senior finance leaders. 
 
 Instead of producing long variance tables and dashboards, the goal is simple:
-Identify the single most important issue, explain what happened, why it happened, and how   confident we are in that conclusion. 
+Identify the single most important issue, explain what happened, why it happened, and how confident we are in that conclusion. 
 
 The output is a short, readable brief that can be reviewed in minutes and used directly in leadership discussions. 
 
@@ -29,14 +29,14 @@ At the close of a fiscal year (or quarter), a financial leader can run this anal
 - How confident are we in this conclusion?
 
 Each run generates a one-page PDF decision brief that can be:
-- Shared in executive mettings.
+- Shared in executive meetings.
 - Used in budget or treasury discussions.
 - Referenced for follow-up analysis or policy review.
 
 No dashboards or technical interpretation required. 
 
 ## What Decisions This Enables
-This system supprots decisions such as:
+This system supports decisions such as:
 - Whether an issue requires immediate intervention or monitoring.
 - Which spending areas warrant deeper investigation.
 - Whether a variance is operational, structural or policy-driven.
@@ -48,7 +48,7 @@ The focus is not on predication but on "Decision Clarity."
 ## How the Analysis Works (High Level) 
 The logic follows a clear and defensible sequence: 
 1. Data Validation:
-   - Variances are recalcualted rather than trusted from source files.
+   - Variances are recalculated rather than trusted from source files.
    - This ensures consistency and auditability.
 2. Materiality and prioritization: 
    - Issues are tiered based on fiscal importance.
@@ -112,4 +112,4 @@ The system is intentionally designed to separate data validation, analytical jud
 
 ## Final Note
 This project was built an emphasis on defensibility, clarity, and decision usefulness rather than technical complexity. 
-Every desgin choice reflects how financial insigths are acutally consumed at the leadgership level. 
+Every design choice reflects how financial insights are acutally consumed at the leadership level. 
