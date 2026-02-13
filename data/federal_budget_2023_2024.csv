@@ -1,0 +1,21 @@
+Year,Category,Estimated Budget,Actual,Variance_Amt,Variance_Pct,Amt_Threshold,Pct_Threshold,Material_flag,Material_Reason
+2023,Interest,395.50,658.30,262.80,66.45,25,0.03,Yes,Dollar and percentage variance exceed thresholds
+2023,Pensions,1401.50,1459.10,57.60,4.11,40,0.03,Yes,Dollar and percentage variance exceed thresholds
+2023,Health Care,1636.90,1736.10,99.20,6.06,50,0.05,Yes,Dollar and percentage variance exceed thresholds
+2023,Defense,1167.40,1191.20,23.80,2.04,50,0.05,No,Below materiality thresholds
+2023,Welfare,486.00,544.90,58.90,12.12,75,0.1,Yes,Dollar variance exceeds threshold
+2023,Transportation,147.90,126.40,-21.50,-14.54,25,0.1,Yes,Dollar variance exceeds threshold
+2023,General Government,68.90,66.60,-2.30,-3.34,20,0.1,No,Below materiality thresholds
+2023,Protection,49.10,50.90,1.80,3.67,10,0.1,No,Below materiality thresholds
+2023,Other Spending,297.10,286.70,-10.40,-3.50,25,0.1,No,Below materiality thresholds
+2023,Education,244.20,14.60,-229.60,-94.02,50,0.15,Yes,Dollar and percentage variance exceed thresholds
+2024,Interest,788.80,879.90,91.10,11.55,25,0.03,Yes,Dollar and percentage variance exceed thresholds
+2024,Pensions,1528.10,1520.50,-7.60,-0.50,40,0.03,No,Below materiality thresholds
+2024,Health Care,1703.10,1758.70,55.60,3.26,50,0.05,Yes,Dollar and percentage variance exceed thresholds
+2024,Defense,1304.10,1271.20,-32.90,-2.52,50,0.05,No,Below materiality thresholds
+2024,Welfare,777.30,468.30,-309.00,-39.75,75,0.1,Yes,Dollar and percentage variance exceed thresholds
+2024,Transportation,147.10,136.60,-10.50,-7.14,25,0.1,No,Below materiality thresholds
+2024,General Government,78.20,67.50,-10.70,-13.68,20,0.1,Yes,Dollar variance exceeds threshold
+2024,Protection,56.20,55.20,-1.00,-1.78,10,0.1,No,Below materiality thresholds
+2024,Other Spending,262.10,239.70,-22.40,-8.55,25,0.1,No,Below materiality thresholds
+2024,Education,237.80,323.80,86.00,36.16,50,0.15,Yes,Dollar and percentage variance exceed thresholds
