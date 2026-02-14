@@ -108,7 +108,7 @@ This diagram shows how raw budget data flows through the analysis pipeline and b
 
 The system is intentionally designed to separate data validation, analytical judgment, and narrative generation so leaders can trust both the numbers and the story. 
 
-![System Architecture](architecture/system_architecture.png)
+![System Architecture](docs/system_architecture.png)
 
 ## Final Note
 This project was built an emphasis on defensibility, clarity, and decision usefulness rather than technical complexity. 
